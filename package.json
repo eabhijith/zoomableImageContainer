@@ -1,5 +1,5 @@
 {
-  "name": "salesforce-app",
+  "name": "zoomableimagecontainer",
   "private": true,
   "version": "1.0.0",
   "description": "Salesforce App",
@@ -39,5 +39,21 @@
     "**/{aura|lwc}/**": [
       "eslint"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eabhijith/zoomableImageContainer.git"
+  },
+  "keywords": [
+    "lwc",
+    "zoomableimage",
+    "container"
+  ],
+  "author": "Abhijith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eabhijith/zoomableImageContainer/issues"
+  },
+  "homepage": "https://github.com/eabhijith/zoomableImageContainer#readme"
 }
