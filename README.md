@@ -14,9 +14,9 @@ This repository is a lightning component for Zoomable Image Container within lwc
 
 ## Getting Started
 ### If you are using sfdx
-1. Clone this repo https://github.com/eabhijith/zoomableImageContainer.git
+1. Clone this repo 
 ```
-git clone 
+git clone https://github.com/eabhijith/zoomableImageContainer.git
 ```
 2. Direct to the root
 ```
