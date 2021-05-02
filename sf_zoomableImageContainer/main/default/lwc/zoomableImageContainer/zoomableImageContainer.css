@@ -1,0 +1,5 @@
+.image-hover-zoom:hover {
+    position:fixed;
+    display:block;
+    z-index : 99999;
+}
